@@ -6,10 +6,20 @@ import Technologies from '../components/Technologies/Technologies';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
+import Head from "next/head"
 
 const Home = () => {
   return (
+    
     <Layout>
+      <Head>
+
+
+
+<meta name="google-site-verification" content="VERIFICATION_ID" />
+
+
+</Head>
      <Section grid> 
         <Hero />
         <BgAnimation /> 
