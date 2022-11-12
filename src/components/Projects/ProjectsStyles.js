@@ -107,6 +107,6 @@ justify-content: space-around;
 padding: 2rem;
 `
 export const Tag = styled.li`
-color: #d8bfbf;
+color: #CBFC00;
 font-size: 1.5rem;
 `
