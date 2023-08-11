@@ -14,7 +14,7 @@ const Hero = () => (
   <SectionText>
    I'm a Software Developer and an open source lover. 
   </SectionText>
-  <Button onClick={() => window.location = 'https://drive.google.com/file/d/1hyoIMLmGvKl243ZyN5kySJPjnSbvftOp/view?usp=sharing'}>Resume</Button>
+  <Button onClick={() => window.location = 'https://bit.ly/myresume-mabud'}>Resume</Button>
 </LeftSection>
 
 </Section>
